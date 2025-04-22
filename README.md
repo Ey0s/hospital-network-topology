@@ -1,4 +1,4 @@
-🏥 Hospital Network Topology (DHCP Enabled)
+Hospital Network Topology (DHCP Enabled)
 
 This repository contains the network design and configuration for a simulated hospital environment using DHCP (Dynamic Host Configuration Protocol) to automate IP address allocation. The design includes multiple departments such as Emergency, Ward, Pharmacy, Laboratory, Server Room, and Office, interconnected via VLANs, routers, and multilayer switches to support secure, efficient, and dynamic IP addressing.
 
