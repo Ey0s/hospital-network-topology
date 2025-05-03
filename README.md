@@ -17,10 +17,10 @@ Each department operates in its own VLAN and receives IP configurations via a ce
 | Office           | 70   | 192.168.8.0/24 | 192.168.8.10 - .100    | 192.168.8.1   |
 | Lobby (WiFi)     | 80   | 192.168.9.0/24 | 192.168.9.10 - .100    | 192.168.9.1   |
 
-Routers:
+### Routers:
 - Router10 <--> Router11 connected via 10.1.1.1 / 10.1.1.2 for inter-network communication.
 
-Features
+### Features
 
 - Dynamic IP Allocation using DHCP for easier network management.
 - Inter-VLAN Routing via multilayer switches.
@@ -29,7 +29,7 @@ Features
 - WiFi access in lobby for mobile users via Access Point.
 - Segmented VLANs to isolate traffic per department.
 
-Tools Used
+### Tools Used
 
 - Cisco Packet Tracer(for simulation)
 - Routers: Cisco 2911 (with DHCP and inter-VLAN config)
@@ -39,4 +39,4 @@ Tools Used
 
 Created By
 
-Eyosyas
+### Eyosyas
